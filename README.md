@@ -28,7 +28,3 @@ Target: median_house_value
 1.Python: Pandas, NumPy, Scikit-learn  
 2.Visualization: Matplotlib, Seaborn  
 3.Tools: Jupyter Notebook, PowerPoint, Word  
-
-
-## ✨ Authors
-Shradha Reddy Pulla · Tejdeep Maddirala · Raga Praneeth Reddy Yaduguri · Subhakar Lella  
